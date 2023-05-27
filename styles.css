@@ -1,4 +1,12 @@
 /*  your css code here. If applicable */
-a:hover{
+div::before{
+	content:"Before Element";
 	color:red;
+	font-size:20px;
+}
+
+div::after{
+	content:"After Element";
+	color:red;
+	font-size:20px;
 }
