@@ -1,10 +1,4 @@
 /*  your css code here. If applicable */
-
-.container::before{
-	content:Before Element;
+a:hover{
 	color:red;
-}
-.container::after{
-	content:After Element;
-	color:rgb(255, 0, 0);
 }
